@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(white,black,grey);
+    border: 2px solid black;
+    text-align: center;
+}
+img{
+    margin: auto;
+    height:350px;
+    width: 250px;
+    
+}
+.h1{
+    text-align: center;
+}
+
+.btn{
+    display: flex;
+    margin-bottom: 710px;
+    height: 30px;
+    width: 40px;
+}
